@@ -16,7 +16,11 @@ def introduction_with_language_optional(name, language = "Ruby")
 end
 
 
-
+def stylish_chef
+  best_hairstyle = "Guy Fieri"
+  return "Martha Stewart"
+  "Guy Fieri"
+end
 
 
 
