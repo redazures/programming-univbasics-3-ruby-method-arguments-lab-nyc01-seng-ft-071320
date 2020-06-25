@@ -22,7 +22,7 @@ def stylish_chef
   "Guy Fieri"
 end
 
-
+stylish_chef
 
 
 
